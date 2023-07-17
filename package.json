@@ -1,6 +1,6 @@
 {
   "name": "sidroc",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "an AOP framework for legacy JavaScript applications.",
   "main": "index.js",
   "author": "CyanC",
