@@ -1,0 +1,4 @@
+# 项目排除路径
+/src/context.js
+/src/registry.js
+/src/scope.js
