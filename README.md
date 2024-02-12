@@ -5,7 +5,7 @@
 ![npm](https://raw.githubusercontent.com/CyanChanges/sidroc/main/data/npm.svg)
 ![NotGitHubButLicense](https://raw.githubusercontent.com/CyanChanges/sidroc/main/data/license.svg)
 
-Are you looking for [Cordis](https://github.com/shigma/cordis) ?
+Are you looking for [Cordis](https://github.com/cordiverse/cordis) ?
 
 Sidroc is an AOP framework for legacy JavaScript applications. You can think of it as a kind of april-fools-day-framework as developers can build their own frameworks on top of it.
 
